@@ -10,7 +10,7 @@
 		"no-console": [
 			true,
 			"log",
-			"error"
+			"warning"
 		],
 		"no-debugger": true,
 		"no-duplicate-super": true,
